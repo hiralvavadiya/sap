@@ -1,5 +1,5 @@
 var loginModel = require('../model/login')
-const bcrypt = require('bcrypt');
+const bcrypt = require('bcryptjs');
 const storage = require('node-persist');
 var jwt = require('jsonwebtoken');  
 const login = require('../model/login');
