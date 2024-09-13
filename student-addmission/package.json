@@ -2,7 +2,7 @@
   "name": "student-addmission",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://localhost:3000",
+  "proxy": "https://sap-backend-v7t8.onrender.com/",
   "dependencies": {
     "@firebase/app": "^0.10.4",
     "@firebase/auth": "^1.7.3",
